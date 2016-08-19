@@ -5,7 +5,6 @@
 <title>Validation</title>
 <link rel="stylesheet" href="assets/css/bootstrap.min.css">
 <link rel="stylesheet" href="assets/css/font-awesome.css">
-<!--<link rel="stylesheet" href="assets/css/lobibox.css">-->
 <script type="text/javascript" src="assets/js/jquery.min.js"></script>
 </head>
 
@@ -49,7 +48,6 @@
 </form>
 </body>
 </html>
-<!--<script type="text/javascript" src="assets/js/lobibox.js"></script>-->
 <script type="text/javascript" src="assets/js/webvalidation.1.0.js"></script>
 <script>
    jQuery("#formValidation").submit(function(){
